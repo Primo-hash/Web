@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Sidebar from './Components/Sidebar';
-import Landing from './Components/Landing';
-import Experience from './Components/Experience';
-import Education from './Components/Education';
-import Skills from './Components/Skills';
-import Interests from './Components/Interests';
-import Awards from './Components/Awards';
-import profileData from './profileData.json';
+import Sidebar from 'https://github.com/Primo-hash/Web/tree/master/src/Components/Sidebar';
+import Landing from 'https://github.com/Primo-hash/Web/tree/master/src/Components/Landing';
+import Experience from 'https://github.com/Primo-hash/Web/tree/master/src/Components/Experience';
+import Education from 'https://github.com/Primo-hash/Web/tree/master/src/Components/Education';
+import Skills from 'https://github.com/Primo-hash/Web/tree/master/src/Components/Skills';
+import Interests from 'https://github.com/Primo-hash/Web/tree/master/src/Components/Interests';
+import Awards from 'https://github.com/Primo-hash/Web/tree/master/src/Components/Awards';
+import profileData from 'https://github.com/Primo-hash/Web/tree/master/src/profileData.json';
 import ReactGA from 'react-ga';
 
 class App extends Component {
