@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Sidebar from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Components/Sidebar';
-import Landing from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Components/Landing';
-import Experience from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Components/Experience';
-import Education from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Components/Education';
-import Skills from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Components/Skills';
-import Interests from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Components/Interests';
-import Awards from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Components/Awards';
-import profileData from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/profileData.json';
+import Sidebar from './Components/Sidebar';
+import Landing from './Components/Landing';
+import Experience from './Components/Experience';
+import Education from './Components/Education';
+import Skills from './Components/Skills';
+import Interests from './Components/Interests';
+import Awards from './Components/Awards';
+import profileData from './profileData.json';
 import ReactGA from 'react-ga';
 
 class App extends Component {
