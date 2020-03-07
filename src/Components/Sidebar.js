@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import image from 'https://github.com/Primo-hash/Web/tree/master/src/Assets/profile.jpg';
+import image from 'C:/Users/ab9du/OneDrive/Skrivebord/gitWeb/Web/src/Assets/profile.jpg';
 
 class Sidebar extends Component {
   constructor(props) {
